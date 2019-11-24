@@ -1,0 +1,12 @@
+CONFIGURAÇÕES GIT:
+Usuario e Email -> git config --global user.name "Nome"
+                   git config --global user.email "Email"
+
+Add Editor ->      git config --global core.editor VSCode
+
+Status da Conf ->  git config --list
+
+REPOSITÓRIOS:
+Iniciar Repositório -> git init               //no diretório
+
+BRANCH, README e COMMIT:
