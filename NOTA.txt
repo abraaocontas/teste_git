@@ -14,6 +14,12 @@ Add File ao Git -> git add -A   //add todos arquivos ou git add nomeDoArquivo
 Commit  -> git commit -m "Comentario"
 Log ->     git Log
 Status -> git Status
+Voltar commit anterior -> git restet --hard idDoCommit  // tudo que foi feito depois desse idDoComit sera desfeito
+                       -> git reset --soft idDoCommit   // desfaz commits posteiores mas mantem os arquivos e alterações
+Criar branch -> git branch nomeDoNovoBrench  // cria um branch com o rusultado atual final do branch anterior
+Alternar branchs -> git checkout nomeDoBranch 
+Branch -> git branch  // em que branch enta atualmente
+Enviar alterações local/remoto -> git push destino branch  // git push origen master 
 
-
-
+GITIGINORE:
+crie um arquivo chamado .gitignore
