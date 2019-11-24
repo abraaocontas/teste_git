@@ -10,3 +10,10 @@ REPOSITÓRIOS:
 Iniciar Repositório -> git init               //no diretório
 
 BRANCH, README e COMMIT:
+Add File ao Git -> git add -A   //add todos arquivos ou git add nomeDoArquivo
+Commit  -> git commit -m "Comentario"
+Log ->     git Log
+Status -> git Status
+
+
+
